@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java and Python.**
 
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=abdullahwins&show_icons=true&locale=en" alt="abdullahwins" /></p>
-
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahwins&show_icons=true&locale=en&layout=compact" alt="abdullahwins" /></p>
+
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=abdullahwins&show_icons=true&locale=en" alt="abdullahwins" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
