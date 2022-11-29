@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahwins&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahwins" /> </p>
 <p align="left"> <a href="https://twitter.com/abdullahwins" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahwins?logo=twitter&style=for-the-badge" alt="abdullahwins" /></a> </p>
 
-- 🔭 I’m currently working on [**My Manager**] (https://mymanager.com)
+- 🔭 I’m currently working on [https://mymanager.com/] (**My Manager**)
 
 - 🌱 I’m currently learning **Backend integration with Nodejs**
 
 - 👯 I’m looking to collaborate on **Unique projects with react and APIs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbdullahWins/htmlPortfolio](https://github.com/AbdullahWins/htmlPortfolio)
+- 👨‍💻 All of my projects are available [https://github.com/AbdullahWins/htmlPortfolio](here)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java and Python.**
 
