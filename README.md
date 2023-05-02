@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahwins&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahwins" /> </p>
 <p align="left"> <a href="https://twitter.com/abdullahwins" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahwins?logo=twitter&style=for-the-badge" alt="abdullahwins" /></a> </p>
 
-- 🔭 I’m currently working on [My Manager](https://mymanager.com/)
+- 🔭 I’m currently working on [AI SAAS Tool]([https://mymanager.com/](https://prochatsubscription.netlify.app/))
 - It is a react web app to maintain everything when it comes to run a business.
 - Almost all aspect of a business is present on this app making it perfect for small/big businesses.
 
