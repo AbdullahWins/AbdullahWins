@@ -31,4 +31,4 @@
 
 
 
-<a href="https://www.steamidfinder.com/lookup/76561198865324652/"><img src="https://www.steamidfinder.com/signature/76561198865324652.png" alt="AbdullahWins Steam Signature - SteamId for AbdullahWins, real name Abdullah Al MahMud"/></a>
+<a aligh="center" href="https://www.steamcommunity.com/id/76561198865324652/"><img src="https://www.steamidfinder.com/signature/76561198865324652.png" alt="AbdullahWins Steam Signature - SteamId for AbdullahWins, real name Abdullah Al MahMud"/></a>
