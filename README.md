@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java and Python.**
 
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=abdullahwins&show_icons=true&locale=en" alt="abdullahwins" /></p>
+<p align="left"><img align="right" src="https://github-readme-stats.vercel.app/api?username=abdullahwins&show_icons=true&locale=en" alt="abdullahwins" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +31,4 @@
 
 
 
-<a aligh="center" href="https://www.steamcommunity.com/id/76561198865324652/"><img src="https://www.steamidfinder.com/signature/76561198865324652.png" alt="AbdullahWins Steam Signature - SteamId for AbdullahWins, real name Abdullah Al MahMud"/></a>
+<a aligh="left" href="https://www.steamcommunity.com/id/76561198865324652/"><img src="https://www.steamidfinder.com/signature/76561198865324652.png" alt="AbdullahWins Steam Signature - SteamId for AbdullahWins, real name Abdullah Al MahMud"/></a>
