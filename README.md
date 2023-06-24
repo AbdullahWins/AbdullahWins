@@ -7,7 +7,12 @@
 <p align="left"> <a href="https://twitter.com/abdullahwins" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahwins?logo=twitter&style=for-the-badge" alt="abdullahwins" /></a> </p>
 
 - 🔭 I’m currently working on [AI SAAS Tool](https://prochatsubscription.netlify.app/)
-- It is a react web app to maintain everything when it comes to run a business.
+  
+- It is a react web app to maintain everything when it comes to run a successful business.
+
+- I also publish npm packages!
+- Check my packages out [here](https://www.npmjs.com/~abdullahwins).
+
 - Almost all aspect of a business is present on this app making it perfect for small/big businesses.
 
 - 🌱 I’m currently learning **Backend integration with Nodejs**
