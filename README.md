@@ -10,20 +10,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahwins&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahwins" /> </p>
 <p align="left"> <a href="https://twitter.com/abdullahwins" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahwins?logo=twitter&style=for-the-badge" alt="abdullahwins" /></a> </p>
 
-- 🔭 I’m currently working on [AI SAAS Tool](https://prochatsubscription.netlify.app/)
+- 🔭 I’m currently working on [EdenBerry Full Stack Application](https://www.edenberry.app/)
   
-- It is a react web app to maintain everything when it comes to run a successful business.
+- It is a Full Stack web & mobile application to maintain everything when it comes to take care of pregnant women and mother with babies and keep track of everything that is needed in one place.
 
-- I also publish npm packages!
-- Check my packages out [here](https://www.npmjs.com/~abdullahwins).
+- I also publishing npm packages [here](https://www.npmjs.com/~abdullahwins?activeTab=packages)
 
-- Almost all aspect of a business is present on this app making it perfect for small/big businesses.
+- Building Web Applications using OPENAI,Stable Diffusion and MidJourney plus various other AI based models.
 
-- 🌱 I’m currently learning **Backend integration with Nodejs**
+- 🌱 I’m currently learning **AWS and Google Cloud**
 
-- 👯 I’m looking to collaborate on **Unique projects with react and APIs**
+- 👯 I’m looking to collaborate on **Unique projects with AI (LLMs and ML models)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java and Python.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Nodejs, React, Angular, Java and Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
