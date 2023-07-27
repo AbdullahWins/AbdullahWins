@@ -14,7 +14,7 @@
   
 - It is a Full Stack web & mobile application to maintain everything when it comes to take care of pregnant women and mother with babies and keep track of everything that is needed in one place.
 
-- I also publishing npm packages [here](https://www.npmjs.com/~abdullahwins?activeTab=packages)
+- I am also publishing npm packages [here](https://www.npmjs.com/~abdullahwins?activeTab=packages)
 
 - Building Web Applications using OPENAI,Stable Diffusion and MidJourney plus various other AI based models.
 
