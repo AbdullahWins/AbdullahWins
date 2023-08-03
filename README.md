@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on [EdenBerry Full Stack Application](https://www.edenberry.app/)
 
-- I am also publishing npm packages [<img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="abdullahwins" width="30"/>](https://www.npmjs.com/~abdullahwins?activeTab=packages)
-
+- I am also publishing [<img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="abdullahwins" width="30"/>](https://www.npmjs.com/~abdullahwins?activeTab=packages) packages!
 
 - Building Web Applications using OPENAI,Stable Diffusion and MidJourney plus various other AI based models.
 
