@@ -15,7 +15,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Nodejs, React, Angular, Java and Python.**
 
 <h3 align="left">My Badges:</h3>
-<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahwins&rank=-C" alt="abdullahwins" /></a> </p>
+<p align="left"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahwins&rank=-C&theme=matrix" alt="abdullahwins" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,4 @@
 </p>
 
 <h3 align="left">My Steam (videogames) Stats:</h3>
-<a align="center" href="https://www.steamcommunity.com/id/abdullahwins/"><img src="https://www.steamidfinder.com/signature/76561198865324652.png" alt="AbdullahWins Steam Signature - SteamId for AbdullahWins, real name Abdullah Al MahMud"/></a>
+<a align="left" href="https://www.steamcommunity.com/id/abdullahwins/"><img src="https://www.steamidfinder.com/signature/76561198865324652.png" alt="AbdullahWins Steam Signature - SteamId for AbdullahWins, real name Abdullah Al MahMud"/></a>
