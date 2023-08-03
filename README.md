@@ -1,9 +1,6 @@
 <h1 align="center">Assalamualaikum, I'm Abdullah Al Mahmud</h1>
 <h3 align="center">Web Application Developer |  Full Stack Software Developer</h3>
 
-<h3 align="left">My Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahwins&show_icons=true&locale=en" alt="abdullahwins" /></p>
-
 <h3 align="left">My Badges:</h3>
 <p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahwins&rank=-C" alt="abdullahwins" /></a> </p>
 
