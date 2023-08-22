@@ -17,7 +17,7 @@
 - One More thing, I love to play **VideoGames!**
 
 <h3 align="left">My Badges:</h3>
-<p align="left"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahwins&rank=-C&theme=matrix" alt="abdullahwins" /></a> </p>
+<p align="left"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahwins&theme=matrix" alt="abdullahwins" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
