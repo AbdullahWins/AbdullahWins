@@ -28,5 +28,5 @@
 <a href="https://dev.to/abdullahwins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdullahwins" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Steam (videogames) Stats:</h3>
+<h3 align="left">My Steam:</h3>
 <a align="left" href="https://www.steamcommunity.com/id/abdullahwins/"><img src="https://www.steamidfinder.com/signature/76561198865324652.png" alt="AbdullahWins Steam Signature - SteamId for AbdullahWins, real name Abdullah Al MahMud"/></a>
