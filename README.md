@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Unique projects with AI (LLMs and ML models)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Nodejs, React, Angular, Java and Python.**
+- 💬 Ask me about **JavaScript, Nodejs, React, TypeScript, Angular, Java, Python, HTML and CSS.**
 
 - One More thing, I love to play **VideoGames!**
 
