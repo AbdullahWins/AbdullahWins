@@ -29,7 +29,7 @@
 </p>
 
 <h3>My Pins</h3>
-<p align="left"> <a align="center" href="https://holopin.io/@abdullahwins"><img src="https://holopin.me/abdullahwins" alt="abdullahwins" height="50"/></a> </p>
+<p align="left"> <a align="center" href="https://holopin.io/@abdullahwins"><img src="https://holopin.me/abdullahwins" alt="abdullahwins" height="60"/></a> </p>
 
 
 <h3 align="left">My Steam:</h3>
