@@ -29,7 +29,8 @@
 </p>
 
 <h3>My Pins</h3>
-[![Image of @abdullahwins's Holopin badges](https://holopin.me/abdullahwins)]
+<p align="left"> <a align="center" href="https://holopin.io/@abdullahwins"><img src="https://holopin.me/abdullahwins" alt="abdullahwins" /></a> </p>
+
 
 <h3 align="left">My Steam:</h3>
 <a align="left" href="https://www.steamcommunity.com/id/abdullahwins/"><img src="https://www.steamidfinder.com/signature/76561198865324652.png" alt="AbdullahWins Steam Signature - SteamId for AbdullahWins, real name Abdullah Al MahMud"/></a>
