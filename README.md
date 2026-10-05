@@ -2,118 +2,133 @@
 
 # Assalamualaikum, I'm Abdullah Al MahMud
 
-### Lead Software Engineer · Backend Specialist · AI Application Developer
+### Lead Software Engineer · Backend Specialist · AI Application Developer · Technical Leader
 
 <p>
-I build reliable backend systems, help lead web and React Native teams, and turn product requirements into scalable software and practical AI-powered solutions.
+I design and ship scalable products across backend systems, AI-driven applications, and cross-functional engineering teams.
 </p>
 
 <p>
   <a href="https://github.com/AbdullahWins">
-    <img src="https://komarev.com/ghpvc/?username=abdullahwins&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view counter for Abdullah's GitHub profile" />
+    <img src="https://komarev.com/ghpvc/?username=abdullahwins&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view counter for Abdullah Al MahMud" />
   </a>
   <a href="https://github.com/AbdullahWins?tab=followers">
-    <img src="https://img.shields.io/github/followers/AbdullahWins?label=Followers&style=flat&color=0e75b6" alt="GitHub follower count for Abdullah" />
+    <img src="https://img.shields.io/github/followers/AbdullahWins?label=Followers&style=flat&color=0e75b6" alt="GitHub follower count for Abdullah Al MahMud" />
   </a>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/abdullahwins"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="https://www.npmjs.com/~abdullahwins"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm profile" /></a>
-  <a href="https://dev.to/abdullahwins"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to profile" /></a>
-  <a href="https://stackoverflow.com/users/19174477/abdullahwins"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow profile" /></a>
+  <a href="https://linkedin.com/in/abdullahwins"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.npmjs.com/~abdullahwins"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="Visit npm profile" /></a>
+  <a href="https://dev.to/abdullahwins"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Read posts on Dev.to" /></a>
+  <a href="https://stackoverflow.com/users/19174477/abdullahwins"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="View Stack Overflow profile" /></a>
 </p>
 
 </div>
 
-## Highlights
+## Quick Value Proposition
 
-- 🔭 Currently working on **[Smart Pathshala](https://smartpathshalabd.com/)** and **[Easy Truck](https://easytruck.xyz/)**
-- 🧭 Leading backend development and supporting web and React Native engineering teams
-- 🤖 Building AI applications with LLMs, RAG, agents, evaluation, and model fine-tuning
-- ⚙️ Shipping across backend systems, frontend apps, mobile apps, DevOps, and cloud infrastructure
-- 🎮 Exploring Unity game development and interactive experiences
-- 🔌 Experimenting with embedded systems and devices such as **ESP32** and **Raspberry Pi**
-- 📦 Publishing developer tools on **[npm](https://www.npmjs.com/~abdullahwins)**
-- 🎯 Open to meaningful product collaborations, especially with AI-focused teams
+- Build and scale backend architecture, APIs, and distributed systems for production workloads
+- Deliver practical AI/LLM product features using RAG, agent workflows, evaluation, and fine-tuning
+- Lead engineering execution across backend, web, and React Native teams with product-first delivery
+- Own cloud and DevOps workflows, from CI/CD and containers to observability and infrastructure reliability
+
+## Apps & Storefronts
+
+I publish apps and extensions under **NADESOFT**.
+
+<p>
+  <a href="https://play.google.com/store/apps/developer?id=NADESOFT">
+    <img src="https://img.shields.io/badge/Google%20Play-NADESOFT-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Open NADESOFT developer page on Google Play" />
+  </a>
+  <a href="https://apps.microsoft.com/search/publisher?name=NADESOFT">
+    <img src="https://img.shields.io/badge/Microsoft%20Store-NADESOFT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Open NADESOFT publisher page on Microsoft Store" />
+  </a>
+  <a href="https://chromewebstore.google.com/search/nadesoft">
+    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-NADESOFT-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open NADESOFT search results on Chrome Web Store" />
+  </a>
+</p>
+
+| Platform | Storefront |
+| --- | --- |
+| Android | [Browse NADESOFT apps on Google Play](https://play.google.com/store/apps/developer?id=NADESOFT) |
+| Windows | [Browse NADESOFT apps on Microsoft Store](https://apps.microsoft.com/search/publisher?name=NADESOFT) |
+| Browser | [Browse NADESOFT extensions on Chrome Web Store](https://chromewebstore.google.com/search/nadesoft) |
 
 ## Current Focus
 
-- **Backend Engineering:** APIs, distributed systems, scalability, and architecture
-- **Team Leadership:** delivery and quality across web and React Native teams
-- **AI Engineering:** LLM applications, RAG, agents, fine-tuning, and evaluation
-- **Spec-Driven Development:** turning clear specifications into maintainable software
-- **Cloud & DevOps:** CI/CD, containers, observability, AWS, and Google Cloud
-- **Exploration:** Unity, ESP32, Raspberry Pi, and connected-device prototypes
+- **Products in progress:** [Smart Pathshala](https://smartpathshalabd.com/) and [Easy Truck](https://easytruck.xyz/)
+- **Backend engineering:** APIs, reliability, distributed systems, scalability, and platform architecture
+- **AI applications:** LLM integrations, RAG pipelines, agentic systems, and quality evaluation workflows
+- **Engineering leadership:** delivery quality, collaboration, and technical direction across teams
+- **Cloud and DevOps:** CI/CD, Docker, Kubernetes, AWS, Google Cloud, and production observability
+
+## Capabilities & Services
+
+- Backend architecture and system design for scalable products
+- API design, integration, and performance optimization
+- AI feature implementation using LLMs, retrieval pipelines, and agents
+- Full-stack collaboration with web and React Native product teams
+- Delivery process improvement through engineering leadership and standards
 
 ## Technology Stack
 
 ### Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css,bash" alt="Core programming languages: JavaScript, TypeScript, Python, Java, HTML, CSS, and Bash" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css,bash" alt="Core languages: JavaScript, TypeScript, Python, Java, HTML, CSS, and Bash" />
 </p>
 
 ### Backend, Web & Mobile
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,angular" alt="Backend and web technologies: Node.js, Express, NestJS, React, Next.js, and Angular" />
 </p>
-<p><strong>Mobile:</strong> React Native</p>
+<p><strong>Mobile support:</strong> React Native</p>
 
-### AI & Data
+### AI, Data & Search
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mongodb,redis,opencv" alt="AI and data tools: TensorFlow, PyTorch, PostgreSQL, MongoDB, Redis, and OpenCV" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mongodb,redis,opencv" alt="AI and data technologies: TensorFlow, PyTorch, PostgreSQL, MongoDB, Redis, and OpenCV" />
 </p>
-<p><strong>AI interests:</strong> LLM application development · RAG · embeddings · vector search · AI agents · prompt engineering · model fine-tuning · evaluation · OpenAI · Stable Diffusion · Midjourney</p>
+<p><strong>AI focus:</strong> LLM applications · RAG · embeddings · vector search · agents · prompt engineering · fine-tuning · evaluation</p>
 
-### DevOps, Cloud & Infrastructure
+### Cloud, DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,githubactions,nginx" alt="DevOps and cloud technologies: AWS, Google Cloud, Docker, Kubernetes, Linux, GitHub Actions, and NGINX" />
-</p>
-
-### Embedded, Game Development & Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,arduino,raspberrypi,git,github,postman,vscode" alt="Embedded and development tools: Unity, Arduino, Raspberry Pi, Git, GitHub, Postman, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,githubactions,nginx" alt="Cloud and DevOps technologies: AWS, Google Cloud, Docker, Kubernetes, Linux, GitHub Actions, and NGINX" />
 </p>
 
-## What I Can Help With
+### Exploration & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,arduino,raspberrypi,git,github,postman,vscode" alt="Exploration and tooling: Unity, Arduino, Raspberry Pi, Git, GitHub, Postman, and VS Code" />
+</p>
 
-- Designing backend architecture for scalable products and distributed systems
-- Building and integrating REST APIs, real-time features, and external services
-- Developing and maintaining full-stack web and React Native applications
-- Delivering AI-powered product features with LLMs, RAG pipelines, and agents
-- Improving CI/CD, containerized deployments, and cloud infrastructure workflows
-- Strengthening engineering execution through technical leadership and system design
-- Prototyping ideas with Unity and embedded platforms (ESP32/Raspberry Pi)
+## Selected Interests & Working Style
+
+- Product-minded engineering with long-term maintainability
+- Spec-driven development and clear execution planning
+- Embedded experimentation with ESP32 and Raspberry Pi
+- Game-development exploration with Unity and interactive systems
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahwins&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub contribution stats for Abdullah" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahwins&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages by Abdullah on GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahwins&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats card for Abdullah Al MahMud" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahwins&layout=compact&theme=transparent&hide_border=true" alt="Top languages card for Abdullah Al MahMud" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullahwins&theme=transparent&hide_border=true" alt="GitHub contribution streak for Abdullah" height="165" />
+  <img src="https://streak-stats.demolab.com?user=abdullahwins&theme=transparent&hide_border=true" alt="GitHub contribution streak card for Abdullah Al MahMud" height="165" />
 </p>
 
-## Connect With Me
+## Connect
 
 - [LinkedIn](https://linkedin.com/in/abdullahwins)
 - [Twitter](https://twitter.com/abdullahwins)
+- [npm](https://www.npmjs.com/~abdullahwins)
 - [Dev.to](https://dev.to/abdullahwins)
 - [Stack Overflow](https://stackoverflow.com/users/19174477/abdullahwins)
-- [npm](https://www.npmjs.com/~abdullahwins)
-
-## Apps & Storefronts
-
-<p>
-  <a href="https://play.google.com/store/apps/developer?id=NADESOFT">NADESOFT on Google Play</a> ·
-  <a href="https://apps.microsoft.com/search/publisher?name=NADESOFT">NADESOFT on Microsoft Store</a> ·
-  <a href="https://chromewebstore.google.com/search/nadesoft">NADESOFT on Chrome Web Store</a>
-</p>
+- [Holopin](https://holopin.io/@abdullahwins)
 
 <p align="center">
   <a href="https://holopin.io/@abdullahwins">
-    <img src="https://holopin.me/abdullahwins" alt="Holopin badge collection for Abdullah" height="100" />
+    <img src="https://holopin.me/abdullahwins" alt="Holopin badges for Abdullah Al MahMud" height="100" />
   </a>
 </p>
