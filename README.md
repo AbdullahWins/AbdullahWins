@@ -108,7 +108,8 @@ I build reliable backend systems, help lead web and React Native teams, and turn
 
 <p>
   <a href="https://play.google.com/store/apps/developer?id=NADESOFT">NADESOFT on Google Play</a> ·
-  <a href="https://apps.microsoft.com/search/publisher?name=NADESOFT">NADESOFT on Microsoft Store</a>
+  <a href="https://apps.microsoft.com/search/publisher?name=NADESOFT">NADESOFT on Microsoft Store</a> ·
+  <a href="https://chromewebstore.google.com/search/nadesoft">NADESOFT on Chrome Web Store</a>
 </p>
 
 <p align="center">
