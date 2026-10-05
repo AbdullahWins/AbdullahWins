@@ -109,6 +109,14 @@ Exploration                Unity, ESP32, Raspberry Pi, and connected devices
 
 ## Connect With Me
 
+### Apps & Storefronts
+
+<p>
+  <a href="https://play.google.com/store/apps/developer?id=NADESOFT">NADESOFT on Google Play</a> ·
+  <a href="https://apps.microsoft.com/search/publisher?name=NADESOFT">NADESOFT on Microsoft Store</a> ·
+  <a href="https://chromewebstore.google.com/search/nadesoft">NADESOFT on Chrome Web Store</a>
+</p>
+
 <p>
   <a href="https://linkedin.com/in/abdullahwins">LinkedIn</a> ·
   <a href="https://twitter.com/abdullahwins">Twitter</a> ·
