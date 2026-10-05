@@ -117,6 +117,13 @@ Exploration                Unity, ESP32, Raspberry Pi, and connected devices
   <a href="https://www.npmjs.com/~abdullahwins">npm</a>
 </p>
 
+## Apps & Storefronts
+
+<p>
+  <a href="https://play.google.com/store/apps/developer?id=NADESOFT">NADESOFT on Google Play</a> ·
+  <a href="https://apps.microsoft.com/search/publisher?name=NADESOFT">NADESOFT on Microsoft Store</a>
+</p>
+
 <p align="center">
   <a href="https://holopin.io/@abdullahwins">
     <img src="https://holopin.me/abdullahwins" alt="Abdullah's Holopin badges" height="100" />
